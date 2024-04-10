@@ -14,6 +14,7 @@
 		A9882EB42BC6C94A00A1F9B9 /* Diapositivasima_genesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9882EB32BC6C94A00A1F9B9 /* Diapositivasima_genesTests.swift */; };
 		A9882EBE2BC6C94A00A1F9B9 /* Diapositivasima_genesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9882EBD2BC6C94A00A1F9B9 /* Diapositivasima_genesUITests.swift */; };
 		A9882EC02BC6C94A00A1F9B9 /* Diapositivasima_genesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9882EBF2BC6C94A00A1F9B9 /* Diapositivasima_genesUITestsLaunchTests.swift */; };
+		A9882ECD2BC6CD1300A1F9B9 /* FotosRegiones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9882ECC2BC6CD1300A1F9B9 /* FotosRegiones.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A9882EB92BC6C94A00A1F9B9 /* DiapositivasimágenesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DiapositivasimágenesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9882EBD2BC6C94A00A1F9B9 /* Diapositivasima_genesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diapositivasima_genesUITests.swift; sourceTree = "<group>"; };
 		A9882EBF2BC6C94A00A1F9B9 /* Diapositivasima_genesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diapositivasima_genesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A9882ECC2BC6CD1300A1F9B9 /* FotosRegiones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FotosRegiones.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				A9882EA42BC6C94600A1F9B9 /* ContentView.swift */,
 				A9882EA62BC6C94900A1F9B9 /* Assets.xcassets */,
 				A9882EA82BC6C94900A1F9B9 /* Preview Content */,
+				A9882ECC2BC6CD1300A1F9B9 /* FotosRegiones.swift */,
 			);
 			path = "Diapositivasimágenes";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				A9882EA52BC6C94600A1F9B9 /* ContentView.swift in Sources */,
 				A9882EA32BC6C94600A1F9B9 /* Diapositivasima_genesApp.swift in Sources */,
+				A9882ECD2BC6CD1300A1F9B9 /* FotosRegiones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
